@@ -43,6 +43,7 @@
         <module>largestprime</module>
         <module>diagonalstar</module>
         <module>minandmax</module>
+        <module>inputcalculator</module>
     </modules>
 
     <properties>

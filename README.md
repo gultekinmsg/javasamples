@@ -98,6 +98,10 @@ Path: `/diagonalstar`
 **31- Min And Max**
 Path: `/minandmax`
 
+**32- Input Calculator**
+Path: `/inputcalculator`
+
+
 
 
 
