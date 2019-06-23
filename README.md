@@ -134,6 +134,9 @@ Path: `/poolarea`
 **43- Composition**
 Path: `/composition`
 
+**44- Encapsulation**
+Path: `/encapsulation`
+
 
 
 

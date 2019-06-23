@@ -55,6 +55,7 @@
         <module>cylinder</module>
         <module>poolarea</module>
         <module>composition</module>
+        <module>encapsulation</module>
     </modules>
 
     <properties>
