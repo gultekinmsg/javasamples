@@ -49,6 +49,7 @@
         <module>person</module>
         <module>wallarea</module>
         <module>point</module>
+        <module>carpetcostcalculator</module>
     </modules>
 
     <properties>

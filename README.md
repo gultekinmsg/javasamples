@@ -116,6 +116,10 @@ Path: `/wallarea`
 **37- Point**
 Path: `/point`
 
+**38- Carpet Cost Calculator**
+Path: `/carpetcostcalculator`
+
+
 
 
 
