@@ -6,5 +6,7 @@ To build project; `mvn clean install`
 # SAMPLES LIST
 
 **1- Hello World**
-
 Path: `/helloworld`
+
+**2- Speed Converter**
+Path: `/speedconverter`
