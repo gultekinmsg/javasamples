@@ -122,6 +122,8 @@ Path: `/carpetcostcalculator`
 **39- Complex Operations**
 Path: `/complexoperation`
 
+**40- Inheritance**
+Path: `/inheritance`
 
 
 

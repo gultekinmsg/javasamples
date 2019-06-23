@@ -51,6 +51,7 @@
         <module>point</module>
         <module>carpetcostcalculator</module>
         <module>complexoperation</module>
+        <module>inheritance</module>
     </modules>
 
     <properties>
