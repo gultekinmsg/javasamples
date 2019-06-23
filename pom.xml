@@ -16,6 +16,7 @@
         <module>speedconverter</module>
         <module>megabytesconverter</module>
         <module>barkingdog</module>
+        <module>leapyearcalculator</module>
     </modules>
 
     <properties>

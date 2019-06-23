@@ -17,3 +17,6 @@ Path: `/megabytesconverter`
 **4- Barking Dog**
 Path: `/barkingdog`
 
+**5- Leap Year Calculator**
+Path: `/leapyearcalculator`
+
