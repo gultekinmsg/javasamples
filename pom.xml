@@ -33,6 +33,7 @@
         <module>numberpalindrome</module>
         <module>firstandlastdigitsum</module>
         <module>evendigitsum</module>
+        <module>shareddigit</module>
     </modules>
 
     <properties>

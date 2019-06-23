@@ -68,6 +68,10 @@ Path: `/firstandlastdigitsum`
 **21- Even Digit Sum**
 Path: `/evendigitsum`
 
+**22- Shared Digit**
+Path: `/shareddigit`
+
+
 
 
 
