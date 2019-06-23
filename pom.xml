@@ -30,6 +30,7 @@
         <module>numberofdaysinmonth</module>
         <module>sum3and5</module>
         <module>sumodd</module>
+        <module>numberpalindrome</module>
     </modules>
 
     <properties>
