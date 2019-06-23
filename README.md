@@ -101,6 +101,11 @@ Path: `/minandmax`
 **32- Input Calculator**
 Path: `/inputcalculator`
 
+**33- Paint Job**
+Path: `/paintjob`
+
+
+
 
 
 
