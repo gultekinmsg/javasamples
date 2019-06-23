@@ -10,3 +10,10 @@ Path: `/helloworld`
 
 **2- Speed Converter**
 Path: `/speedconverter`
+
+**3- Megabytes Converter**
+Path: `/megabytesconverter`
+
+**4- Barking Dog**
+Path: `/barkingdog`
+

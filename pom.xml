@@ -15,6 +15,7 @@
         <module>helloworld</module>
         <module>speedconverter</module>
         <module>megabytesconverter</module>
+        <module>barkingdog</module>
     </modules>
 
     <properties>
