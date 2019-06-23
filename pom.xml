@@ -6,7 +6,21 @@
 
     <groupId>com.gultekinmsg</groupId>
     <artifactId>javasamples</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <name>javasamples</name>
+    <description>Basic Java Samples</description>
 
+    <modules>
+        <module>helloworld</module>
+    </modules>
+
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+        <java.version>11</java.version>
+        <maven.compiler.target>11</maven.compiler.target>
+        <maven.compiler.source>11</maven.compiler.source>
+    </properties>
 
 </project>
