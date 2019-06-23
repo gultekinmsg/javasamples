@@ -20,6 +20,9 @@ Path: `/barkingdog`
 **5- Leap Year Calculator**
 Path: `/leapyearcalculator`
 
-**5- Decimal Comparator**
+**6- Decimal Comparator**
 Path: `/decimalcomparator`
+
+**7- Equal Sum Checker**
+Path: `/equalsumchecker`
 

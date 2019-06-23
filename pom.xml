@@ -18,6 +18,7 @@
         <module>barkingdog</module>
         <module>leapyearcalculator</module>
         <module>decimalcomparator</module>
+        <module>equalsumchecker</module>
     </modules>
 
     <properties>
