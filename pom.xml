@@ -27,6 +27,7 @@
         <module>secondsandmethods</module>
         <module>dayoftheweek</module>
         <module>numberinword</module>
+        <module>numberofdaysinmonth</module>
     </modules>
 
     <properties>

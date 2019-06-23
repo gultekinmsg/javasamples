@@ -50,6 +50,10 @@ Path: `/dayoftheweek`
 **15- Number In Word**
 Path: `/numberinword`
 
+**16- Number Of Days In Month**
+Path: `/numberofdaysinmonth`
+
+
 
 
 
