@@ -45,6 +45,7 @@
         <module>minandmax</module>
         <module>inputcalculator</module>
         <module>paintjob</module>
+        <module>sumcalculator</module>
     </modules>
 
     <properties>

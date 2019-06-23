@@ -104,6 +104,10 @@ Path: `/inputcalculator`
 **33- Paint Job**
 Path: `/paintjob`
 
+**34- Sum Calculator**
+Path: `/sumcalculator`
+
+
 
 
 
