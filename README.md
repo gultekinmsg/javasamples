@@ -59,8 +59,13 @@ Path: `/sum3and5`
 **18- Sum Odd**
 Path: `/sumodd`
 
-**18- Number Palindrome**
+**19- Number Palindrome**
 Path: `/numberpalindrome`
+
+**20- First And Last Digit Sum**
+Path: `/firstandlastdigitsum`
+
+
 
 
 

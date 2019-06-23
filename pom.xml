@@ -31,6 +31,7 @@
         <module>sum3and5</module>
         <module>sumodd</module>
         <module>numberpalindrome</module>
+        <module>firstandlastdigitsum</module>
     </modules>
 
     <properties>
