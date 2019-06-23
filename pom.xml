@@ -23,6 +23,7 @@
         <module>areacalculator</module>
         <module>minutestoyearsanddayscalculator</module>
         <module>equalityprinter</module>
+        <module>playingcat</module>
     </modules>
 
     <properties>

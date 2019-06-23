@@ -38,6 +38,10 @@ Path: `/minutestoyearsanddayscalculator`
 **11- Equality Printer**
 Path: `/equalityprinter`
 
+**12- Playing Cat**
+Path: `/playingcat`
+
+
 
 
 
