@@ -24,6 +24,7 @@
         <module>minutestoyearsanddayscalculator</module>
         <module>equalityprinter</module>
         <module>playingcat</module>
+        <module>secondsandmethods</module>
     </modules>
 
     <properties>

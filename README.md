@@ -41,6 +41,9 @@ Path: `/equalityprinter`
 **12- Playing Cat**
 Path: `/playingcat`
 
+**13- Seconds And Methods**
+Path: `/secondsandmethods`
+
 
 
 
