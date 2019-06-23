@@ -20,6 +20,7 @@
         <module>decimalcomparator</module>
         <module>equalsumchecker</module>
         <module>teennumberchecker</module>
+        <module>areacalculator</module>
     </modules>
 
     <properties>

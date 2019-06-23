@@ -29,4 +29,7 @@ Path: `/equalsumchecker`
 **8- Teen Number Checker**
 Path: `/teennumberchecker`
 
+**9- Area Calculator**
+Path: `/areacalculator`
+
 
