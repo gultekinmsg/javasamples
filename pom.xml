@@ -28,6 +28,7 @@
         <module>dayoftheweek</module>
         <module>numberinword</module>
         <module>numberofdaysinmonth</module>
+        <module>sum3and5</module>
     </modules>
 
     <properties>

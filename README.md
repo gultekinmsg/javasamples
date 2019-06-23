@@ -53,6 +53,10 @@ Path: `/numberinword`
 **16- Number Of Days In Month**
 Path: `/numberofdaysinmonth`
 
+**16- Sum 3 And 5**
+Path: `/sum3and5`
+
+
 
 
 
