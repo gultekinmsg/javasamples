@@ -113,6 +113,8 @@ Path: `/person`
 **36- Wall Area**
 Path: `/wallarea`
 
+**37- Point**
+Path: `/point`
 
 
 

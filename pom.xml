@@ -48,6 +48,7 @@
         <module>sumcalculator</module>
         <module>person</module>
         <module>wallarea</module>
+        <module>point</module>
     </modules>
 
     <properties>
