@@ -17,6 +17,7 @@
         <module>megabytesconverter</module>
         <module>barkingdog</module>
         <module>leapyearcalculator</module>
+        <module>decimalcomparator</module>
     </modules>
 
     <properties>
