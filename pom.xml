@@ -35,6 +35,7 @@
         <module>evendigitsum</module>
         <module>shareddigit</module>
         <module>lastdigitchecker</module>
+        <module>greatestcommondivider</module>
     </modules>
 
     <properties>

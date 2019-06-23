@@ -74,6 +74,10 @@ Path: `/shareddigit`
 **23- Last Digit Checker**
 Path: `/lastdigitchecker`
 
+**24- Greatest Common Divider**
+Path: `/greatestcommondivider`
+
+
 
 
 
