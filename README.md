@@ -95,6 +95,10 @@ Path: `/largestprime`
 **30- Diagonal Star**
 Path: `/diagonalstar`
 
+**31- Min And Max**
+Path: `/minandmax`
+
+
 
 
 
