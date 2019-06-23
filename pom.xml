@@ -19,6 +19,7 @@
         <module>leapyearcalculator</module>
         <module>decimalcomparator</module>
         <module>equalsumchecker</module>
+        <module>teennumberchecker</module>
     </modules>
 
     <properties>

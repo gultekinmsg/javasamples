@@ -26,3 +26,7 @@ Path: `/decimalcomparator`
 **7- Equal Sum Checker**
 Path: `/equalsumchecker`
 
+**8- Teen Number Checker**
+Path: `/teennumberchecker`
+
+
