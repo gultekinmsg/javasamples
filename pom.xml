@@ -29,6 +29,7 @@
         <module>numberinword</module>
         <module>numberofdaysinmonth</module>
         <module>sum3and5</module>
+        <module>sumodd</module>
     </modules>
 
     <properties>
