@@ -60,6 +60,11 @@
         <module>oopmasterexercise</module>
         <module>arrays</module>
         <module>mielementinarray</module>
+        <module>arraylist</module>
+        <module>autoboxingandunboxing</module>
+        <module>linkedlist</module>
+        <module>interface</module>
+        <module>innerclassses</module>
     </modules>
 
     <properties>

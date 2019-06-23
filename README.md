@@ -149,13 +149,20 @@ Path: `/arrays`
 **48- Min Element In Array**
 Path: `/mielementinarray`
 
+**49- Arraylist**
+Path: `/arraylist`
 
+**50- Autoboxing And Unboxing**
+Path: `/autoboxingandunboxing`
 
+**51- Linked List**
+Path: `/linkedlist`
 
+**52- Interface**
+Path: `/interface`
 
-
-
-
+**53- Inner Classses**
+Path: `/innerclassses`
 
 
 
