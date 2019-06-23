@@ -32,4 +32,9 @@ Path: `/teennumberchecker`
 **9- Area Calculator**
 Path: `/areacalculator`
 
+**10- Minutes To Years And Days Calculator **
+Path: `/minutestoyearsanddayscalculator`
+
+
+
 

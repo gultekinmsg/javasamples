@@ -21,6 +21,7 @@
         <module>equalsumchecker</module>
         <module>teennumberchecker</module>
         <module>areacalculator</module>
+        <module>minutestoyearsanddayscalculator</module>
     </modules>
 
     <properties>
