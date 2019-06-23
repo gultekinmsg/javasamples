@@ -47,6 +47,7 @@
         <module>paintjob</module>
         <module>sumcalculator</module>
         <module>person</module>
+        <module>wallarea</module>
     </modules>
 
     <properties>

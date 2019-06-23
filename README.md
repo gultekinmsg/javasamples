@@ -110,6 +110,10 @@ Path: `/sumcalculator`
 **35- Person**
 Path: `/person`
 
+**36- Wall Area**
+Path: `/wallarea`
+
+
 
 
 
