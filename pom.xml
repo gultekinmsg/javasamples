@@ -34,6 +34,7 @@
         <module>firstandlastdigitsum</module>
         <module>evendigitsum</module>
         <module>shareddigit</module>
+        <module>lastdigitchecker</module>
     </modules>
 
     <properties>

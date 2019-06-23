@@ -71,6 +71,11 @@ Path: `/evendigitsum`
 **22- Shared Digit**
 Path: `/shareddigit`
 
+**23- Last Digit Checker**
+Path: `/lastdigitchecker`
+
+
+
 
 
 
