@@ -50,6 +50,7 @@
         <module>wallarea</module>
         <module>point</module>
         <module>carpetcostcalculator</module>
+        <module>complexoperation</module>
     </modules>
 
     <properties>
