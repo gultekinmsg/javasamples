@@ -56,6 +56,8 @@
         <module>poolarea</module>
         <module>composition</module>
         <module>encapsulation</module>
+        <module>polimorphism</module>
+        <module>oopmasterexercise</module>
     </modules>
 
     <properties>

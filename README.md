@@ -137,6 +137,14 @@ Path: `/composition`
 **44- Encapsulation**
 Path: `/encapsulation`
 
+**45- Polimorphism**
+Path: `/polimorphism`
+
+**46- Oop Master Exercise**
+Path: `/oopmasterexercise`
+
+
+
 
 
 
