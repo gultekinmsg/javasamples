@@ -53,6 +53,7 @@
         <module>complexoperation</module>
         <module>inheritance</module>
         <module>cylinder</module>
+        <module>poolarea</module>
     </modules>
 
     <properties>
