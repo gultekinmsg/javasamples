@@ -54,6 +54,7 @@
         <module>inheritance</module>
         <module>cylinder</module>
         <module>poolarea</module>
+        <module>composition</module>
     </modules>
 
     <properties>
