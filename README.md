@@ -107,6 +107,10 @@ Path: `/paintjob`
 **34- Sum Calculator**
 Path: `/sumcalculator`
 
+**35- Person**
+Path: `/person`
+
+
 
 
 

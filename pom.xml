@@ -46,6 +46,7 @@
         <module>inputcalculator</module>
         <module>paintjob</module>
         <module>sumcalculator</module>
+        <module>person</module>
     </modules>
 
     <properties>
