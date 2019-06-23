@@ -65,6 +65,10 @@ Path: `/numberpalindrome`
 **20- First And Last Digit Sum**
 Path: `/firstandlastdigitsum`
 
+**21- Even Digit Sum**
+Path: `/evendigitsum`
+
+
 
 
 
