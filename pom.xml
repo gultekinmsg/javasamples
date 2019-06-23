@@ -52,6 +52,7 @@
         <module>carpetcostcalculator</module>
         <module>complexoperation</module>
         <module>inheritance</module>
+        <module>cylinder</module>
     </modules>
 
     <properties>
