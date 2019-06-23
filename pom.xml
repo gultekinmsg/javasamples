@@ -58,6 +58,8 @@
         <module>encapsulation</module>
         <module>polimorphism</module>
         <module>oopmasterexercise</module>
+        <module>arrays</module>
+        <module>mielementinarray</module>
     </modules>
 
     <properties>

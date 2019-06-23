@@ -143,6 +143,13 @@ Path: `/polimorphism`
 **46- Oop Master Exercise**
 Path: `/oopmasterexercise`
 
+**47- Arrays**
+Path: `/arrays`
+
+**48- Min Element In Array**
+Path: `/mielementinarray`
+
+
 
 
 
