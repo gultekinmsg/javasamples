@@ -86,6 +86,10 @@ Path: `/perfectnumber`
 **27- Number To Words**
 Path: `/numbertowords`
 
+**28- Flour Pack Problem**
+Path: `/flourpackproblem`
+
+
 
 
 

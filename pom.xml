@@ -39,6 +39,7 @@
         <module>allfactors</module>
         <module>perfectnumber</module>
         <module>numbertowords</module>
+        <module>flourpackproblem</module>
     </modules>
 
     <properties>
