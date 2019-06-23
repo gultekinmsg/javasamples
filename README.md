@@ -89,6 +89,10 @@ Path: `/numbertowords`
 **28- Flour Pack Problem**
 Path: `/flourpackproblem`
 
+**29- Largest Prime**
+Path: `/largestprime`
+
+
 
 
 

@@ -40,6 +40,7 @@
         <module>perfectnumber</module>
         <module>numbertowords</module>
         <module>flourpackproblem</module>
+        <module>largestprime</module>
     </modules>
 
     <properties>
