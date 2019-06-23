@@ -77,6 +77,14 @@ Path: `/lastdigitchecker`
 **24- Greatest Common Divider**
 Path: `/greatestcommondivider`
 
+**25- All Factors**
+Path: `/allfactors`
+
+**26- Perfect Number**
+Path: `/perfectnumber`
+
+
+
 
 
 

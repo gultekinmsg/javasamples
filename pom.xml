@@ -36,6 +36,8 @@
         <module>shareddigit</module>
         <module>lastdigitchecker</module>
         <module>greatestcommondivider</module>
+        <module>allfactors</module>
+        <module>perfectnumber</module>
     </modules>
 
     <properties>
