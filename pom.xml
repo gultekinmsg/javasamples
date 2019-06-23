@@ -22,6 +22,7 @@
         <module>teennumberchecker</module>
         <module>areacalculator</module>
         <module>minutestoyearsanddayscalculator</module>
+        <module>equalityprinter</module>
     </modules>
 
     <properties>

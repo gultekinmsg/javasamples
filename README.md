@@ -32,8 +32,12 @@ Path: `/teennumberchecker`
 **9- Area Calculator**
 Path: `/areacalculator`
 
-**10- Minutes To Years And Days Calculator **
+**10- Minutes To Years And Days Calculator**
 Path: `/minutestoyearsanddayscalculator`
+
+**11- Equality Printer**
+Path: `/equalityprinter`
+
 
 
 
