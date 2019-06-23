@@ -14,6 +14,7 @@
     <modules>
         <module>helloworld</module>
         <module>speedconverter</module>
+        <module>megabytesconverter</module>
     </modules>
 
     <properties>
