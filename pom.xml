@@ -25,6 +25,8 @@
         <module>equalityprinter</module>
         <module>playingcat</module>
         <module>secondsandmethods</module>
+        <module>dayoftheweek</module>
+        <module>numberinword</module>
     </modules>
 
     <properties>

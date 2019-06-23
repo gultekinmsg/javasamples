@@ -44,6 +44,13 @@ Path: `/playingcat`
 **13- Seconds And Methods**
 Path: `/secondsandmethods`
 
+**14- Day Of The Week**
+Path: `/dayoftheweek`
+
+**15- Number In Word**
+Path: `/numberinword`
+
+
 
 
 
