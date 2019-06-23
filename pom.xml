@@ -38,6 +38,7 @@
         <module>greatestcommondivider</module>
         <module>allfactors</module>
         <module>perfectnumber</module>
+        <module>numbertowords</module>
     </modules>
 
     <properties>

@@ -83,6 +83,11 @@ Path: `/allfactors`
 **26- Perfect Number**
 Path: `/perfectnumber`
 
+**27- Number To Words**
+Path: `/numbertowords`
+
+
+
 
 
 
