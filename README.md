@@ -92,6 +92,10 @@ Path: `/flourpackproblem`
 **29- Largest Prime**
 Path: `/largestprime`
 
+**30- Diagonal Star**
+Path: `/diagonalstar`
+
+
 
 
 

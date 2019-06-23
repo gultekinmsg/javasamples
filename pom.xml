@@ -41,6 +41,7 @@
         <module>numbertowords</module>
         <module>flourpackproblem</module>
         <module>largestprime</module>
+        <module>diagonalstar</module>
     </modules>
 
     <properties>
