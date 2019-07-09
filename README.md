@@ -41,137 +41,152 @@ Path: `/equalityprinter`
 **12- Playing Cat**
 Path: `/playingcat`
 
-**13- Seconds And Methods**
+**13- Recursive Methods**
+Path: `/recursivemethods`
+
+**14- Seconds And Methods**
 Path: `/secondsandmethods`
 
-**14- Day Of The Week**
+**15- Day Of The Week**
 Path: `/dayoftheweek`
 
-**15- Number In Word**
+**16- Number In Word**
 Path: `/numberinword`
 
-**16- Number Of Days In Month**
+**17- Number Of Days In Month**
 Path: `/numberofdaysinmonth`
 
-**17- Sum 3 And 5**
+**18- Sum 3 And 5**
 Path: `/sum3and5`
 
-**18- Sum Odd**
+**19- Sum Odd**
 Path: `/sumodd`
 
-**19- Number Palindrome**
+**20- Number Palindrome**
 Path: `/numberpalindrome`
 
-**20- First And Last Digit Sum**
+**21- First And Last Digit Sum**
 Path: `/firstandlastdigitsum`
 
-**21- Even Digit Sum**
+**22- Even Digit Sum**
 Path: `/evendigitsum`
 
-**22- Shared Digit**
+**23- Shared Digit**
 Path: `/shareddigit`
 
-**23- Last Digit Checker**
+**24- Last Digit Checker**
 Path: `/lastdigitchecker`
 
-**24- Greatest Common Divider**
+**25- Greatest Common Divider**
 Path: `/greatestcommondivider`
 
-**25- All Factors**
+**26- All Factors**
 Path: `/allfactors`
 
-**26- Perfect Number**
+**27- Perfect Number**
 Path: `/perfectnumber`
 
-**27- Number To Words**
+**28- Number To Words**
 Path: `/numbertowords`
 
-**28- Flour Pack Problem**
+**29- Flour Pack Problem**
 Path: `/flourpackproblem`
 
-**29- Largest Prime**
+**30- Largest Prime**
 Path: `/largestprime`
 
-**30- Diagonal Star**
+**31- Diagonal Star**
 Path: `/diagonalstar`
 
-**31- Min And Max**
+**32- Reading User Input**
+Path: `/readinguserinput`
+
+**33- Min And Max**
 Path: `/minandmax`
 
-**32- Input Calculator**
+**34- Input Calculator**
 Path: `/inputcalculator`
 
-**33- Paint Job**
+**35- Paint Job**
 Path: `/paintjob`
 
-**34- Sum Calculator**
+**36- Sum Calculator**
 Path: `/sumcalculator`
 
-**35- Person**
+**37- Person**
 Path: `/person`
 
-**36- Wall Area**
+**38- Wall Area**
 Path: `/wallarea`
 
-**37- Point**
+**39- Point**
 Path: `/point`
 
-**38- Carpet Cost Calculator**
+**40- Carpet Cost Calculator**
 Path: `/carpetcostcalculator`
 
-**39- Complex Operations**
+**41- Complex Operations**
 Path: `/complexoperation`
 
-**40- Inheritance**
+**42- Inheritance**
 Path: `/inheritance`
 
-**41- Cylinder**
+**43- Cylinder**
 Path: `/cylinder`
 
-**42- Poolarea**
+**44- Poolarea**
 Path: `/poolarea`
 
-**43- Composition**
+**45- Composition**
 Path: `/composition`
 
-**44- Encapsulation**
+**46- Encapsulation**
 Path: `/encapsulation`
 
-**45- Polimorphism**
+**47- Polimorphism**
 Path: `/polimorphism`
 
-**46- Oop Master Exercise**
+**48- Oop Master Exercise**
 Path: `/oopmasterexercise`
 
-**47- Arrays**
+**49- Arrays**
 Path: `/arrays`
 
-**48- Min Element In Array**
+**50- Min Element In Array**
 Path: `/mielementinarray`
 
-**49- Arraylist**
+**51- Arraylist**
 Path: `/arraylist`
 
-**50- Autoboxing And Unboxing**
+**52- Autoboxing And Unboxing**
 Path: `/autoboxingandunboxing`
 
-**51- Linked List**
+**53- Linked List**
 Path: `/linkedlist`
 
-**52- Interface**
+**54- Interface**
 Path: `/interface`
 
-**53- Inner Classses**
+**55- Inner Classes**
 Path: `/innerclassses`
 
+**56- Abstract Class**
+Path: `/abstractclass`
 
+**57- Generics 1**
+Path: `/generics1`
 
+**58- Generics 2**
+Path: `/generics2`
 
+**59- Adventure Game**
+Path: `/adventuregame`
 
+**60- Set Planets**
+Path: `/setplanets`
 
-
-
-
+**61- Collections Shopping**
+Path: `/collectionsshopping`
 
 
 

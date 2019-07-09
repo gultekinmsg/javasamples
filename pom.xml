@@ -65,6 +65,14 @@
         <module>linkedlist</module>
         <module>interface</module>
         <module>innerclassses</module>
+        <module>recursivemethods</module>
+        <module>readinguserinput</module>
+        <module>abstractclass</module>
+        <module>generics1</module>
+        <module>generics2</module>
+        <module>adventuregame</module>
+        <module>setplanets</module>
+        <module>collectionsshopping</module>
     </modules>
 
     <properties>
